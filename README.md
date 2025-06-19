@@ -1,2 +1,3 @@
 # AvatarTestBuilderWindow
-VRChat のアバターのテストビルドを連続で行うUnityエディター拡張
+VRChat のアバターのテストビルドを連続で行うUnityエディター拡張  
+IVRCSdkAvatarBuilderApiの私的なサンプルのようなものです。
